@@ -2,17 +2,17 @@
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Recomenda-se a inclusão de uma foto.
+Atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, 
 
 ## Meus Projetos
 
 ### Em 2020-1
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+Foi desenvolvido o primeiro projeto acadêmico, onde foi proposto pela faculdade a criação de um aplicativo móvel construido com uma linguagem de programação baseada em blocos.
 
 [GIT](https://www.google.com)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+App Inventor e Kodular - São duas plataformas online de programação baseada em blocos onde foi desenvolvido a aplicação.
 
 #### Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes.
