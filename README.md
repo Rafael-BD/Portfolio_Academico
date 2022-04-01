@@ -26,18 +26,8 @@ As Hard Skills desenvolvidas ao longo deste projeto foram: A Lógica de Programa
 #### Soft Skills
 As Soft Skills desenvolvidas e utilizadas foram principalmente a capacidade de comunicação e colaboração entre os membros da equipe, muito importante para este modelo ágil de desenvolvimento e o gerenciamento de tempo e planejamento, que foram partes fundamentais para o progresso organizado e fluido do projeto.
 
-### Em 2020-2
-
-### Em 2021-1
-
-### Em 2021-2
-
-### Em 2022-1
-
-### Em 2022-1
 
 ## Meus Principais Conhecimentos
-<!--Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.-->
 
 ## Contatos
 * [GIT](https://github.com/Rafael-BD)
