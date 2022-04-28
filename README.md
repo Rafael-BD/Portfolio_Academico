@@ -8,8 +8,8 @@ Este portfólio reúne os projetos integradores realizados durante o curso de An
 # Sumário
 - [Rafael Bettini Dias - Portfólio](#rafael-bettini-dias---portfólio)
 - [Sobre mim](#sobre-mim)
-- [Projetos](#projetos)
-- [Contato](#contato)
+- [Projetos](#meus-projetos)
+- [Redes Sociais](#redes-sociais)
 
 ## Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Atualmente faço estágio de TI na Prefeitura de São José dos Campos.
@@ -17,13 +17,12 @@ Minhas principais Hard Skills são as linguagens Javascript para Backend e Front
  
  
 ## Meus Projetos
+* [Safe House - 2020-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-1.md)
+* []()
+* []()
 
 
-
-
-## Meus Principais Conhecimentos
-
-## Contatos
+## Redes Sociais
 * [GIT](https://github.com/Rafael-BD)
 * [LinkedIn](https://www.linkedin.com/in/rafael-b-990835209/)
 
