@@ -8,7 +8,7 @@ Este portfólio reúne os projetos integradores realizados durante o curso de An
 # Sumário
 - [Rafael Bettini Dias - Portfólio](#rafael-bettini-dias---portfólio)
 - [Sobre mim](#sobre-mim)
-- [Principais Conhecimentos](#meus-principais-conhecimentos)
+- [Principais Conhecimentos](#principais-conhecimentos)
 - [Projetos](#meus-projetos)
 - [Redes Sociais](#redes-sociais)
 
@@ -25,7 +25,7 @@ Meus principais conhecimentos em tecnologias são:
  
 ## Meus Projetos
 * [Safe House - 2020-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-1.md)
-* []()
+* [Sistema de Controle de Jornada de Trabalho - 2020-2](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-2.md)
 * []()
 
 
