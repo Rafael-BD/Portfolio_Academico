@@ -10,7 +10,7 @@ Este portfólio reúne os projetos integradores realizados durante o curso de An
 - [Sobre mim](#sobre-mim)
 - [Principais Conhecimentos](#principais-conhecimentos)
 - [Projetos](#meus-projetos)
-- [Redes Sociais](#redes-sociais)
+- [Contatos](#contatos)
 
 ## Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Atualmente faço estágio de TI na Prefeitura de São José dos Campos.
@@ -29,7 +29,7 @@ Meus principais conhecimentos em tecnologias são:
 * [nEDUC - 2021-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-3.md)
 
 
-## Redes Sociais
+## Contatos
 * [GIT](https://github.com/Rafael-BD)
 * [LinkedIn](https://www.linkedin.com/in/rafael-b-990835209/)
 
