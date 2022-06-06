@@ -13,7 +13,11 @@ Firebase - Banco de dados não relacional usado para armazenar e prover as infor
 Neste projeto eu contribuí para o desenvolvimento do backend da aplicação, utilizando os blocos lógicos da plataforma Kodular para construir a lógica base da aplicação, como o sistema de login, automatização de chamadas telefônicas e notificações de atividades.
 
 #### Hard Skills
-As Hard Skills desenvolvidas ao longo deste projeto foram: A Lógica de Programação - fundamental para construir as funções da aplicação numa liguagem baseada em blocos; Metodologias Ágeis - importante para o gerenciamento do projeto em conjunto com o time de desenvolvimento; e por fim a utilização de banco de dados não relacional para controle e comunicação entre os dispositivos.
+As Hard Skills desenvolvidas ao longo deste projeto foram: 
+* A Lógica de Programação - muito utilizada neste modelo de projeto que utiliza programação em blocos lógicos. Ela é utilizada na estruturação da lógica de funcionamento da aplicação, neste caso orientada a blocos que reunem métodos ou funções lógicas pré programadas.
+* Metodologia SCRUM - neste projeto fui introduzido ao desenvolvimento ágil SCRUM, que teve como aplicação prática padronizar e estabelecer um método de desenvolvimento em equipe coordenado e focado em performance. Nossa equipe contou com um scrum master, um product owner (PO) e 5 devs. O papel do master num scrum team é gerenciar o projeto e conectar os interesses do cliente ao processo de desnvolvimento. O PO por fim tem o objetivo de estabelecer uma conexão entre o time de desenvolvimento e os desejos do cliente, de forma que haja um entendimento mútuo. 
 
 #### Soft Skills
-As Soft Skills desenvolvidas e utilizadas foram principalmente a capacidade de comunicação e colaboração entre os membros da equipe, muito importante para este modelo ágil de desenvolvimento e o gerenciamento de tempo e planejamento, que foram partes fundamentais para o progresso organizado e fluido do projeto.
+As Soft Skills desenvolvidas e utilizadas foram:
+* Trabalho em equipe - para o desenvolvimento de um projeto complexo é importante a colaboração e um bom aninhamento do time para alcançar o resultado ideal, neste projeto colocamos em prática a metodolodia de desenvolvimento SCRUM onde foi imprescindível o trabalho em equipe.
+* Proatividade - também foi desenvolvida neste projeto a proatividade, que é a característica de se tomar decisões e realizar atividades de forma autônoma.
