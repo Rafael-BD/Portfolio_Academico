@@ -16,20 +16,19 @@
 
 #### Contribuições Pessoais
 Neste projeto eu utilizei a tecnologia React e HTML para desenvolver as telas de autenticação e exibição dos documentos. 
-Ao longo do projeto foi necessário também desenvolver 
+Ao longo do projeto foi necessário também desenvolver soluções para chatbot e manipulação de arquivos PDF. 
+Em conjunto com a equipe de desenvolvimento ajudei a criar o layout das telas de cada componente em React e HTML/CSS.
      
      
 #### Hard Skills
 As Hard Skills desenvolvidas ao longo deste projeto foram: 
-* Linguagem Java para desenvolvimento backend utilizando arquitetura MVC
-* HTML/CSS para desenvolvimento frontend do website
-* Bootstrap para agilizar a criação de designs e responsividade das telas
-* MySQL como banco de dados relacional
-* SpringBoot para agilizar o processo de desenvolvimento da aplicação
+* React - neste projeto obtive bastante conhecimento da criação de aplicações web em React, que foi utilizada em praticamente todo o projeto.
+* Javascript - a linguagem de programação utilizada e desenvolvida foi Javascript em conjunto com bibliotecas do React e dependências do Node Js.
+* Node Js - por fim adquiri também conhecimentos práticos na utilização do NodeJs para execução de projetos Javascript.
 
 #### Soft Skills
 As Soft Skills desenvolvidas e utilizadas foram:
-* Estratégia - Neste projeto foi importante elaborar uma boa estratégia de desenvolvimento uma vez que este foi mais complexo que os demais projetos ja feitos
-* Coordenação - Desta vez nossa equipe era maior e o projeto proposto mais complexo, por isso foi necessário os estabelecimento de uma boa coordenação para colocar em prática a metodologia de desenvolvimento ágil.
+* Liderança - a caracteristica de liderança mesmo que a pessoa não esteja num cargo de liderança, é importante para que o time seja proativo e busque soluções para problemas de forma autônoma.
+* Proatividade - neste projeto foi necessário buscar conhecimentos sobre tecnologias que nunca tinha utilizado, neste caso a proatividade para os estudos foi fundamental para resolvermos entraves de problemas que inicialmente não conhecíamos.
 
 
