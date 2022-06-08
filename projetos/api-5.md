@@ -15,7 +15,6 @@
 Neste projeto utilizei e aprimorei os conhecimentos em React aprendidos no semestre anterior para o desnvolvimento frontend e backend do aplicativo. 
 Fiquei responsável por desenvolver as telas de Pesquisa e exibição de PDFs dos documentos, também contribuí para algumas funcionalidades da tela de Login como persistência local de dados e comunicação com a API Gateway do backend hospedado num servidor da AWS.
      
-     
 #### Hard Skills
 As Hard Skills desenvolvidas ao longo deste projeto foram: 
 * React Native - neste projeto ganhei muita experiência prática no desenvolvimento de uma aplicação mobile completa com React Native, uma biblioteca criada para o desenvolvimento de apps android e ios.
@@ -25,6 +24,5 @@ As Hard Skills desenvolvidas ao longo deste projeto foram:
 #### Soft Skills
 As Soft Skills desenvolvidas e utilizadas foram:
 * Proatividade - mais uma vez foi muito importante a proatividade durante o desenvolvimento, principalmente por se tratar de tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
-
 
 
