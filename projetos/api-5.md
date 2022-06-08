@@ -18,14 +18,13 @@ Fiquei responsável por desenvolver as telas de Pesquisa e exibição de PDFs do
      
 #### Hard Skills
 As Hard Skills desenvolvidas ao longo deste projeto foram: 
-* React - neste projeto obtive bastante conhecimento da criação de aplicações web em React, que foi utilizada em praticamente todo o projeto.
-* Javascript - a linguagem de programação utilizada e desenvolvida foi Javascript em conjunto com bibliotecas do React e dependências do Node Js.
-* Node Js - por fim adquiri também conhecimentos práticos na utilização do NodeJs para execução de projetos Javascript.
+* React Native - neste projeto ganhei muita experiência prática no desenvolvimento de uma aplicação mobile completa com React Native, uma biblioteca criada para o desenvolvimento de apps android e ios.
+* NOSQL - em especial neste projeto aprendi a utilizar bancos de dados NOQL como o MongoDB para a peristência de documentos JSON com os respectivos dados do sistema.
+* Android - a aplicação foi projetada para o sistema operacional Android e com isso foi necessário aprender como funciona o sistema e sua funções nativas.
 
 #### Soft Skills
 As Soft Skills desenvolvidas e utilizadas foram:
-* Liderança - a caracteristica de liderança mesmo que a pessoa não esteja num cargo de liderança, é importante para que o time seja proativo e busque soluções para problemas de forma autônoma.
-* Proatividade - neste projeto foi necessário buscar conhecimentos sobre tecnologias que nunca tinha utilizado, neste caso a proatividade para os estudos foi fundamental para resolvermos entraves de problemas que inicialmente não conhecíamos.
+* Proatividade - mais uma vez foi muito importante a proatividade durante o desenvolvimento, principalmente por se tratar de tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
 
 
 
