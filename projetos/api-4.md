@@ -1,5 +1,5 @@
 ### Em 2021-2
-  Foi desenvolvido o terceiro projeto acadêmico dessa vez em parceria com a empresa [Embraer](https://embraer.com/), onde foi proposto como objetivo desenvolver um sistema para gerar documentos de aeronaves de acordo com os padrões estabelecidos pela empresa parceira.
+  Foi desenvolvido o quarto projeto acadêmico dessa vez em parceria com a empresa [Embraer](https://embraer.com/), onde foi proposto como objetivo desenvolver um sistema para gerar documentos de aeronaves de acordo com os padrões estabelecidos pela empresa parceira.
 
 [GIT](https://github.com/DevSlim001/API_Slim_4Semestre)
 
