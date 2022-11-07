@@ -21,7 +21,7 @@ reconhecer. A IA foi construída como uma Rede Neural Convolucional com arquitet
 de seu desenvolvimento 65% de taxa de confiança média em suas detecções e conseguindo detectar em média pelo menos 80% de todas as vagens.
      
 #### Hard Skills
-A Hard Skill desenvolvida ao longo deste projeto foram: 
+A Hard Skill desenvolvida ao longo deste projeto foi: 
 * Inteligência Artificial - Ao longo do projeto desenvolvi conhecimentos básicos e uma boa noção do funcionamento e processo de construção de uma IA para detecção e classificação de objetos.
 
 #### Soft Skills
