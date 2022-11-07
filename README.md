@@ -13,14 +13,15 @@ Este portfólio reúne os projetos integradores realizados durante o curso de An
 - [Contatos](#contatos)
 
 ## Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Atualmente faço estágio de TI na Prefeitura de São José dos Campos.
-Minhas principais Hard Skills são as linguagens Javascript para Backend e Frontend com React e C# para desenvolvimento de jogos.
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Atualmente faço estágio de suporte de TI na Prefeitura de São José dos Campos.
+Minhas principais Hard Skills são as linguagens Javascript para Backend/Frontend com React e C# para desenvolvimento de jogos.
 
 ## Principais Conhecimentos
 Meus principais conhecimentos em tecnologias são:
-* Javascript/Typescript para desenvolvimento backend e frontend utilizando React e React Native
+* Javascript/Typescript para desenvolvimento com React e React Native.
 * C# para desenvolvimento backend utilizando .NET Core e Entity Framework, e também para desenvolvimento de jogos.
 * HTML/CSS para páginas web
+* Java para desenvolvimento backend.
  
  
 ## Meus Projetos
@@ -29,6 +30,7 @@ Meus principais conhecimentos em tecnologias são:
 * [nEDUC - 2021-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-3.md)
 * [AirDocs](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-4.md)
 * [eFOL](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-5.md)
+* [SoyIA](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-6.md))
 
 
 ## Contatos
