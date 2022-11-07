@@ -29,13 +29,18 @@ Meus principais conhecimentos em tecnologias são:
 * Java para desenvolvimento backend.
  
  
-## Meus Projetos
+## Meus Projetos Acadêmicos
 * [Safe House - 2020-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-1.md)
 * [Sistema de Controle de Jornada de Trabalho - 2020-2](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-2.md)
 * [nEDUC - 2021-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-3.md)
 * [AirDocs](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-4.md)
 * [eFOL](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-5.md)
 * [SoyIA](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-6.md)
+
+## Outros Projetos Pessoais
+* [Fruityvice](https://github.com/Rafael-BD/Fruityvice) - E-commerce em React com consumo de API externa.
+* [Sistema de Noticias](https://github.com/stars/Rafael-BD/lists/sistema-de-noticias) - Website em Java de Noticias com micro services e API REST.
+* [NorthWars](https://github.com/Rafael-BD/North-Wars) - Jogo RPG feito na Unity Engine com funcionalidades multi-jogador online (Em desenvolvimento)
 
 
 ## Contatos
