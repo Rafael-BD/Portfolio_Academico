@@ -41,7 +41,7 @@ As Soft Skills desenvolvidas e utilizadas foram:
 ###
 
 ### Gráficos de Dispersão da precisão de detecção da IA com cada imagem de validação:
-<img src=''/></nobr><img src=''/>
+<img width=450 src='https://raw.githubusercontent.com/medrenan/SoyIA/main/doc/Mockup/Sprint%203/GraosPlot.png'/></nobr><img width=450 src='https://raw.githubusercontent.com/medrenan/SoyIA/main/doc/Mockup/Sprint%203/VagensPlot.png'/>
 <br/>
 ### Imagens processadas pela IA com as vagens detectadas e marcadas em vermelho: 3 grãos, amarelo: 2 grãos, azul: 1 grão:
-<img src=''/></nobr><img src=''/>
+<img src="https://github.com/medrenan/SoyIA/blob/main/doc/Results%20IA/Results%20IA%20Sprint%203/images/13.jpg" height="400"> <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Results%20IA/Results%20IA%20Sprint%203/images/25.jpg" height="400"> <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Results%20IA/Results%20IA%20Sprint%203/images/28.jpg" height="400">
