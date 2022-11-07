@@ -18,7 +18,7 @@
   Neste projeto fui responsável por desenvolver a IA assim como seu dataset, treinamento e integração com o endpoint para comunicação com o App de celular.
 Para preparação do dataset de imagens foi necessário realizar a rotulação e identificação manual de cada vagem nas imagens de treino para que a IA pudesse
 reconhecer. A IA foi construída como uma Rede Neural Convolucional com arquitetura Yolo, os treinamentos foram feitos de forma supervisionada, atingindo ao final 
-de seu desenvolvimento 65% de taxa de confiança média em suas detecções e conseguindo detectar em média pelo menos 80% de todas as vagens.
+de seu desenvolvimento 65% de taxa de confiança média em suas detecções e conseguindo marcar em média pelo menos 80% de todas as vagens.
      
 #### Hard Skills
 A Hard Skill desenvolvida ao longo deste projeto foi: 
