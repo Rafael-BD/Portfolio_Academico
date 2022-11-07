@@ -13,14 +13,19 @@ Este portfólio reúne os projetos integradores realizados durante o curso de An
 - [Contatos](#contatos)
 
 ## Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Atualmente faço estágio de suporte de TI na Prefeitura de São José dos Campos.
-Minhas principais Hard Skills são as linguagens Javascript para Backend/Frontend com React e C# para desenvolvimento de jogos.
+
+* Estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. <br/>
+* Atualmente faço estágio de suporte de TI na Prefeitura de São José dos Campos, dentre as minhas atribuições estão: Realizar manutenção em computadores e     auxiliar usuários na utilização dos equipamentos e sistemas. <br/>
+* Cursei 1 ano em Técnico em Informática durante o ensino médio.<br/>
+* Meus principais conhecimentos em tecnologia são:  Desenvolvimento NodeJs com React e React Native.<br/>
+* Também ja tive experiência com desenvolvimento Java, C# .NET, Unity3D (Jogos digitais) e Python (Machine Learning e Data Science).<br/>
+
 
 ## Principais Conhecimentos
 Meus principais conhecimentos em tecnologias são:
 * Javascript/Typescript para desenvolvimento com React e React Native.
 * C# para desenvolvimento backend utilizando .NET Core e Entity Framework, e também para desenvolvimento de jogos.
-* HTML/CSS para páginas web
+* HTML/CSS/JS para páginas web
 * Java para desenvolvimento backend.
  
  
