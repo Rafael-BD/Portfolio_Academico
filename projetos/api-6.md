@@ -1,5 +1,5 @@
 ### Em 2022-2
-  Foi desenvolvido o sexto projeto com a empresa [Visiona](https://www.visionaespacial.com.br/) que propôs o desenvolvimento de uma Inteligência Artificial 
+  Foi desenvolvido o sexto projeto com a empresa [Visiona](https://www.visionaespacial.com.br/) que propôs a construção de uma Inteligência Artificial 
   como nova funcionalidade para um App ja existente com a finalidade de reconhecer vagens e grãos de soja e fazer uma estimativa de produção do plantio.
 
 [Repositório](https://github.com/medrenan/SoyIA)
