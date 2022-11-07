@@ -1,5 +1,5 @@
 ### Em 2022-1
-  Foi desenvolvido o quinto projeto novamente com a empresa [Embraer](https://embraer.com/), onde dessa vez foi como objetivo desenvolver uma aplicação mobile para compartilhamento de documentos de aeronaves com seus clientes e também foi desenvolvido um sistema web de administração para cadastro de usuários e novos documentos. Ambas as aplicações foram desenvolvidas em React.
+  Foi desenvolvido o quinto projeto novamente com a empresa [Embraer](https://embraer.com/), onde dessa vez o objetivo foi criar uma aplicação mobile para compartilhamento de documentos de aeronaves com seus clientes e também um sistema web de administração para cadastro de usuários e novos documentos. Ambas as aplicações foram feitas em React.
 
 [GIT](https://github.com/TecStocks)
 
