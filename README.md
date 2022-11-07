@@ -30,7 +30,7 @@ Meus principais conhecimentos em tecnologias são:
 * [nEDUC - 2021-1](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-3.md)
 * [AirDocs](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-4.md)
 * [eFOL](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-5.md)
-* [SoyIA](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-6.md))
+* [SoyIA](https://github.com/Rafael-BD/Portifolio/blob/main/projetos/api-6.md)
 
 
 ## Contatos
