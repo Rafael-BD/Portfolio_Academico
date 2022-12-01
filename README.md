@@ -1,5 +1,4 @@
 # Rafael Bettini Dias - Portfólio
-<img src="imagens/índice.png" width="200px"/>
 
 ## Introdução
 
