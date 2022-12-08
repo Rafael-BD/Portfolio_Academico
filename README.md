@@ -1,5 +1,7 @@
 # Rafael Bettini Dias - Portfólio
 
+<img src="https://avatars.githubusercontent.com/u/67149165?v=4" width="200px"/>
+
 ## Introdução
 
 Este portfólio reúne os projetos integradores realizados durante o curso de Análise e Desenvolvimento de Sistemas e as tecnologias e soft skills desenvolvidas e utilizadas.
